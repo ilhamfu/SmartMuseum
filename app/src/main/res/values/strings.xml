@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Museum</string>
+    <string name="app_label">Smart Museum</string>
+    <string name="search_bar_title">Search</string>
+    <string name="refresh_menu_title">Refresh</string>
+    <string name="scan_menu_title">Scan</string>
+    <string name="about_menu_title">About</string>
+</resources>

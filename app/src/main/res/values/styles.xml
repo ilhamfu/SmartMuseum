@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/customColor1</item>
+        <item name="colorPrimaryDark">@color/customColor3</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/customColor4</item>
+
+    </style>
+    <style name="ToolBarStyle" parent="AppTheme">
+        <item name="android:textColorPrimary">@color/customColor4</item>
+        <item name="android:textColorSecondary">@color/customColor1</item>
+    </style>
+    <style name="RecycleViewStyle" parent="AppTheme">
+        <item name="android:background">@color/customColor2</item>
+    </style>
+
+</resources>
